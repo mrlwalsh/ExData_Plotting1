@@ -116,7 +116,7 @@ The four plots that you will need to construct are shown below.
 
 To complete the Project 1 assignment I :
 
-added four separate R script files to the subdirectory scripts
+added four separate R script files to the subdirectory named scripts
 
 * plot1.R
 * plot2.R
@@ -125,7 +125,7 @@ added four separate R script files to the subdirectory scripts
 
 Each of these script files creates one png file containing a plot.
 
-the png files containing the plots are in the subdirectory figure/unnamed-chunk-2
+the png files containing the plots are in the subdirectory named figure
 
 * plot1.png
 * plot2.png
