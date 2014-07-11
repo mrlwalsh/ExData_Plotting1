@@ -112,3 +112,22 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+### Project Submission
+
+To complete the Project 1 assignment I :
+
+added four separate R script files to the subdirectory scripts
+
+* plot1.R
+* plot2.R
+* plot3.R
+* plot4.R
+
+Each of these script files creates one png file containing a plot.
+
+the png files containing the plots are in the subdirectory figure/unnamed-chunk-2
+
+* plot1.png
+* plot2.png
+* plot3.png
+* plot4.png
